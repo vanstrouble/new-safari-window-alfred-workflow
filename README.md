@@ -35,14 +35,6 @@ Opens a new Safari Private window in the current space.
 
 - **Keyword**: sw + ⌥ (option)
 
-### Clarification on Private Window Configuration
-
-**The system language must be in Spanish.**
-
-For an **English configuration**, you must modify the script for the private window:
-- "Nueva ventana privada" to "New private window"
-- "Archivo" to "File"
-
 ---
 
 ## Credits

@@ -35,6 +35,14 @@ Opens a new Safari Private window in the current space.
 
 - **Keyword**: sw + ⌥ (option)
 
+### New Private window with URL (sw + ⌥ [space] URL)
+
+<img src="img/open-safari-window-url.png" alt="Alfred new Private Safari window with URL"/>
+
+Opens a new Safari Private window with the specified URL in the current space.
+
+- **Keyword**: sw + ⌥ [space] URL
+
 ---
 
 ## Credits

@@ -1,15 +1,16 @@
 # New Safari Window | Alfred Workflow
 
-<img src="img/safari-icon.png" alt="Alfred Safari Window Workflow" align="right" width="250px"/>
+<img src="img/safari-icon.png" alt="Alfred Safari Window Workflow" align="right" width="125px"/>
 
 A streamlined workflow for generating new Safari browser windows without needing to be within its interface. It facilitates the creation of both standard Safari windows and private ones.
 
-To download it, click [here](https://github.com/vanstrouble/new-safari-window-alfred-workflow/releases).
+## Install
+
+Get the latest release on GitHub [here](https://github.com/vanstrouble/new-safari-window-alfred-workflow/releases).
 
 **This workflow is only for Alfred.app Powerpack users.**
 
 ## Getting Started
-Below you can see a list of commands supported:
 
 ### New window (sw)
 

@@ -1,4 +1,14 @@
 on run argv
+    set safariRunning to false
+    tell application "System Events"
+        set safariRunning to (exists process "Safari")
+    end tell
+
+    if not safariRunning then
+        tell application "Safari" to activate
+        return
+    end if
+
     if (count of argv) > 0 then
         set theURL to item 1 of argv
         if theURL does not start with "http://" and theURL does not start with "https://" then

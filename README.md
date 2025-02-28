@@ -1,6 +1,4 @@
-# New Safari Window | Alfred Workflow
-
-<img src="img/safari-icon.png" alt="Alfred Safari Window Workflow" align="right" width="125px"/>
+# <img src="img/safari-icon.png" alt="Alfred Safari Window Workflow" align="center" width="45"/> New Safari Window | Alfred Workflow
 
 A streamlined workflow for generating new Safari browser windows without needing to be within its interface. It facilitates the creation of both standard Safari windows and private ones.
 

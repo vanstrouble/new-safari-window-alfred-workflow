@@ -4,7 +4,7 @@ A streamlined workflow for generating new Safari browser windows without needing
 
 ## Install
 
-Get the latest release on GitHub [here](https://github.com/vanstrouble/new-safari-window-alfred-workflow/releases).
+- Get the latest release on GitHub [here](https://github.com/vanstrouble/new-safari-window-alfred-workflow/releases).
 
 **This workflow is only for Alfred.app Powerpack users.**
 
